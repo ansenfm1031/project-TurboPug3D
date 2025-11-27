@@ -7,7 +7,7 @@
 <img width="240" alt="image" src="https://github.com/user-attachments/assets/3e9787fa-3c12-481b-b5bd-01d4895eb4f2" />
 <img width="240" alt="image" src="https://github.com/user-attachments/assets/579c64b0-f6c4-48e8-956f-1f5f73cef992" />
 
-장애물을 피해 더 높은 점수를 기록하는 런게임
+장애물을 피해 더 높은 점수를 기록하는 러닝 액션 게임
 
 - MFC 를 이용한 오브젝트 툴 및 애니메이션 툴 구현
 - 랭킹 시스템 및 고스트 기능 구현
