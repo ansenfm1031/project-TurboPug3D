@@ -25,3 +25,11 @@
 1위를 기록한 플레이 정보를 저장 후 재생하는 방식으로 대전 형식의 플레이 경험 제공  
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/1a649ad5-404e-4e76-a49d-0b547c306613" />
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/356ebd06-0c8b-4117-9b3b-b42dbfd4431a" />
+
+## 담당 업무
+| 이름 | 담당 |
+|------|------|
+| **문두르** | 메인 프로그램 / MFC 툴 |
+| **이*미** | 오브젝트 / 이펙트 |
+| **임*욱** | 플레이어 / UI |
+| **오*수** | 고스트 플레이어 / 맵 |
